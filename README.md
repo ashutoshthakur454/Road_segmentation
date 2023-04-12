@@ -27,7 +27,10 @@ Some sample segmented masks predicted by the model are:
 Road segmentation was also done on this video:
 
 
-https://user-images.githubusercontent.com/105798962/231580134-a371706e-0170-4d4a-995a-da0b007609f6.mp4
+
+https://user-images.githubusercontent.com/105798962/231581342-36af4cd6-eab6-430d-91d9-5cc33ed90fc2.mp4
+
+
 
 And the result obtained was as follows:
 
